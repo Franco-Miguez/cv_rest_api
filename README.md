@@ -22,7 +22,7 @@ cv_rest_api es una pequeña aplicación web que consume la API pública [RandomU
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/cv_rest_api.git
+   git clone https://github.com/Franco-Miguez/cv_rest_api.git
    ```
 2. Entra en la carpeta del proyecto:
    ```bash
